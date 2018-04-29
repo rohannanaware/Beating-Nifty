@@ -2,7 +2,7 @@
 
 - Document all content related to investment and trading of scripts
 - Include details for mutual funds as well
-- Refernce material[#refernce-material]
+- Reference material
 
 # Identifying stocks to invest in
 
@@ -34,7 +34,7 @@
 - Axis Midcap Fund(G) - Crisil rank 5
 - Kotak Select Focus Fund - Direct Plan (G)
 
-# Refernce material
+# Reference material
 
 - Rupeevest
     - [Methodology](https://www.rupeevest.com/Mutual-Funds/Rating)
