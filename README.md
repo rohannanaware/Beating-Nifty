@@ -19,7 +19,7 @@
     
 2. 
 
-# Identifying mutuual funds to invest in
+# Identifying mutual funds to invest in
 
 - Metrics to be considered :
     - Returns vs. Category average vs. Nifty(compare for last 5 years)
