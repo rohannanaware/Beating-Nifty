@@ -63,7 +63,11 @@
         - Check the track record of Risk vs. Return
             - Less risk and more return preferred
             - LC are less risky than MC
-        - 
+        - <img src = "https://raw.githubusercontent.com/rohan193/Trading/master/images/2018%20MF%20SIP.png">
+    SUNDARAM SELECT FOCUS FUND
+    TEMPLETON INDIA GROWTH FUND
+    TATA INDIA TAX SAVING FUND
+
 ## Reference 
 
 1. Rupeevest
