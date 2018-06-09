@@ -64,9 +64,11 @@
             - Less risk and more return preferred
             - LC are less risky than MC
         - <img src = "https://raw.githubusercontent.com/rohan193/Trading/master/images/2018%20MF%20SIP.png">
-    SUNDARAM SELECT FOCUS FUND
-    TEMPLETON INDIA GROWTH FUND
-    TATA INDIA TAX SAVING FUND
+        
+ - Reference material 2.2
+    - SUNDARAM SELECT FOCUS FUND
+    - TEMPLETON INDIA GROWTH FUND
+    - TATA INDIA TAX SAVING FUND
 
 ## Reference 
 
@@ -76,3 +78,4 @@
 
 2. Youtube
     1. [How to Select Best Mutual funds - Pranjal Sharma](https://www.youtube.com/watch?v=RJdxuaR4cKU)
+    2. [Best mutual funds in India for 2018 - Pranjal Sharma](https://www.youtube.com/watch?v=Okrd_rqi8Fs)
