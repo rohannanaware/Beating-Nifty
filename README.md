@@ -1,16 +1,25 @@
-# Trading
+
+# Plan for investment
+
+- [Stock investment and trading](#stock-investment-and-trading)
+    - [Identifying stocks to invest in](#identifying-stocks-to-invest-in)
+- [Mutual fund investment](#mutual-fund-investment)
+    - [Identifying mutual funds to invest in](#identifying-mutual-funds-to-invest-in)
+- [Reference material](#reference-material)
+   
+## Stock investment and trading
 
 - Document all content related to investment and trading of scripts
 - Include details for mutual funds as well
 - Reference material
 
-# Identifying stocks to invest in
+### Identifying stocks to invest in
 
 - Industries wih the low P/E
 - Industries with strong financials - Fundamental analysis
 - Industries in sectors that show highest growth prospects
 
-## Industries wih the low P/E
+#### Industries wih the low P/E
 
 1. PNB - 
     - Key support level at 75. Current price `29th Apr 2018` stands at ₹ 93.4
@@ -25,7 +34,8 @@
 4. Sanwaria Consumer - `09th Jun 2018` - Bought 190 shares at a price of ₹13.15. Good financials. Need to define target. Clear resistance level at ₹22 and ₹29
 5. Prakash - `09th Jun 2018` - Slightly late from point of entry perspective, but good potential for grwoth. Need to perform FA and category comparison
 
-# Identifying mutual funds to invest in
+## Mutual fund investment
+### Identifying mutual funds to invest in
 
 - Metrics to be considered :
     - Returns vs. Category average vs. Nifty(compare for last 5 years)
@@ -40,7 +50,7 @@
 - Axis Midcap Fund(G) - Crisil rank 5
 - Kotak Select Focus Fund - Direct Plan (G)
 
-# Reference material
+## Reference material
 
 - Rupeevest
     - [Methodology](https://www.rupeevest.com/Mutual-Funds/Rating)
