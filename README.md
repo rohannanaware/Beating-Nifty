@@ -78,3 +78,5 @@
 2. Youtube
     1. [How to Select Best Mutual funds - Pranjal Sharma](https://www.youtube.com/watch?v=RJdxuaR4cKU)
     2. [Best mutual funds in India for 2018 - Pranjal Sharma](https://www.youtube.com/watch?v=Okrd_rqi8Fs)
+    3. [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+    4. [Principles For Success by Ray Dalio (In 30 Minutes)](https://www.youtube.com/watch?v=B9XGUpQZY38)
