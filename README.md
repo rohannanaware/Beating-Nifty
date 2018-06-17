@@ -19,8 +19,6 @@
 - Industries with strong financials - Fundamental analysis
 - Industries in sectors that show highest growth prospects
 
-#### Industries wih the low P/E
-
 1. PNB - 
     - Key support level at 75. Current price `29th Apr 2018` stands at ₹ 93.4
     - Stock not on an uptrend but on a sidewise pattern. Still current price makes a good case for point of entry
