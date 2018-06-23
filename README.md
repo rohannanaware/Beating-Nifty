@@ -5,6 +5,7 @@
     - [Identifying stocks to invest in](#identifying-stocks-to-invest-in)
 - [Mutual fund investment](#mutual-fund-investment)
     - [Identifying mutual funds to invest in](#identifying-mutual-funds-to-invest-in)
+    - Debt mutual funds
 - [Reference](#reference)
    
 ## Stock investment and trading
