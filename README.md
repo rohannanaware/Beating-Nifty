@@ -3,12 +3,7 @@
 
 - [Value investing](#value-investing)
 - [Stock investment and trading](#stock-investment-and-trading)
-    - [Identifying stocks to invest in](#identifying-stocks-to-invest-in)
 - [Mutual fund investment](#mutual-fund-investment)
-    - [Identifying mutual funds to invest in](#identifying-mutual-funds-to-invest-in)
-    - Debt mutual funds
-- [Webscraping](#web-scraping)
-    - [Phase 1](#phase-1)
 - [Reference](#reference)
 
 ## Value investing
