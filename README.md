@@ -105,14 +105,14 @@
     - [Top MFs](https://www.rupeevest.com/Mutual-Funds-India/Best-Mutual-Funds)
 
 2. Youtube
-    1. [How to Select Best Mutual funds - Pranjal Sharma](https://www.youtube.com/watch?v=RJdxuaR4cKU)
-    2. [Best mutual funds in India for 2018 - Pranjal Sharma](https://www.youtube.com/watch?v=Okrd_rqi8Fs)
-    3. [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-    4. [Principles For Success by Ray Dalio (In 30 Minutes)](https://www.youtube.com/watch?v=B9XGUpQZY38)
+    - [How to Select Best Mutual funds - Pranjal Sharma](https://www.youtube.com/watch?v=RJdxuaR4cKU)
+    - [Best mutual funds in India for 2018 - Pranjal Sharma](https://www.youtube.com/watch?v=Okrd_rqi8Fs)
+    - [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+    - [Principles For Success by Ray Dalio (In 30 Minutes)](https://www.youtube.com/watch?v=B9XGUpQZY38)
 
 3. Metrics to select mutual funds
- - [What are the best mutual funds to buy?](https://www.quora.com/What-are-the-five-best-mutual-funds-in-2018)
- - [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+    - [What are the best mutual funds to buy?](https://www.quora.com/What-are-the-five-best-mutual-funds-in-2018)
+    - [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
  
 4. Zerodha
- - [Fundamental analysis](https://zerodha.com/varsity/)
+    - [Fundamental analysis](https://zerodha.com/varsity/)
