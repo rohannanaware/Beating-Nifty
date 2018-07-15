@@ -6,6 +6,8 @@
 - [Mutual fund investment](#mutual-fund-investment)
     - [Identifying mutual funds to invest in](#identifying-mutual-funds-to-invest-in)
     - Debt mutual funds
+- [Webscraping](#web-scraping)
+    - [Phase 1](#phase-1)
 - [Reference](#reference)
    
 ## Stock investment and trading
@@ -75,6 +77,27 @@
     - TEMPLETON INDIA GROWTH FUND
     - TATA INDIA TAX SAVING FUND
 
+# Web scraping
+
+- Objective - Build a framework that can help shortlist sripts good for investment in the upcoming quarter. This framework will filter the amount of scripts that will be fed into the algorithmic trading
+
+- **Phase 1** Scrape the details that can help assess the fundamental health of a stock entity
+- **Phase 2** Build an app/ screener/ health tracker that can suggest scripts using fundamental analysis
+- **Phase 3** Monetize by deployement or app development
+
+#### Phase 1
+
+- Start with scraping data from moneycontrol - 
+  - Scrpit - [Sanwaria Consumer Ltd.](http://www.moneycontrol.com/india/stockpricequote/edible-oils-solvent-extraction/sanwariaconsumer/SAO)
+  - Details to be scraped - Financials, Balance sheet, PnL, Financial ratios
+  
+- Next steps - 
+  - Share details for the script and braistorm on the metrics to be calculated on top of the data
+  - Understand what goes into coming up with a metric, its significance
+  - Parameterize the code for any script
+  - Get a view on the code run time and methods to improve the same
+  - Fix on the frontend layout
+
 ## Reference 
 
 1. Rupeevest
@@ -86,3 +109,10 @@
     2. [Best mutual funds in India for 2018 - Pranjal Sharma](https://www.youtube.com/watch?v=Okrd_rqi8Fs)
     3. [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
     4. [Principles For Success by Ray Dalio (In 30 Minutes)](https://www.youtube.com/watch?v=B9XGUpQZY38)
+
+3. Metrics to select mutual funds
+ - [What are the best mutual funds to buy?](https://www.quora.com/What-are-the-five-best-mutual-funds-in-2018)
+ - [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+ 
+4. Zerodha
+ - [Fundamental analysis](https://zerodha.com/varsity/)
