@@ -1,6 +1,7 @@
 
 # Plan for investment
 
+- [Value investing](#value-investing)
 - [Stock investment and trading](#stock-investment-and-trading)
     - [Identifying stocks to invest in](#identifying-stocks-to-invest-in)
 - [Mutual fund investment](#mutual-fund-investment)
@@ -9,7 +10,11 @@
 - [Webscraping](#web-scraping)
     - [Phase 1](#phase-1)
 - [Reference](#reference)
-   
+
+## Value investing
+
+- [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+
 ## Stock investment and trading
 
 - Document all content related to investment and trading of scripts
