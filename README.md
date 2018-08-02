@@ -1,5 +1,5 @@
 
-# Plan for investment
+# Value investment and Trading
 
 - [Value investing](#value-investing)
 - [Stock investment and trading](#stock-investment-and-trading)
@@ -9,6 +9,19 @@
 ## Value investing
 
 - [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+- Books to read :
+  - The Warren Buffet Way
+  - The Intelligent Investor | Security Analysis - Benjamin Graham
+  - The Theory of Investment Value - John Burr Williams
+  - Poor Charlie's Almanack
+- Dimensions over which a stock should be analysed
+  - **Value** - Price less than NAV and low P/E ratio
+  - **Past performance** - Has the industry provided a consistent ROE for the shareholders? What has been the margin and revenue growth?
+  - **Future growth prospects** - Is the product unique, is there a demand for the product in future, are there any arrangements from government(refer ibef website) to fuel the demand or support the finances? Competition levels?
+  - **Health** - What are the level of debts? Is the current cash reserve enough to cover the debts or current liabilities? Why are the level of debts higher - expansion/loans/tarrifs? What are the plans for reducing the debts?
+  - **Dividend** - Has the industry paid consistent dividents to it's shareholders? Is the divided above the industry average? How has the dividend value increased over time?
+  - **Management** - Does the management behave like the founders or owners of the industry - eg. what is the unpledged promoter holding? Is the management transparent about the industry and it's finances? Are there any legal cases against them? Does the management have an outlook to capitalize the institutional changes? Candor
+  - Consistently track news - derectly or indirectly related to the industry, movements in the global market, introduction of tariffs, change in goverment, policies of the government etc. Refer websites like SimplyWallStreet and Screener
 
 ## Stock investment and trading
 
