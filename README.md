@@ -116,3 +116,5 @@
  
 4. Zerodha
     - [Fundamental analysis](https://zerodha.com/varsity/)
+    
+5. [Screener](https://www.screener.in/)
