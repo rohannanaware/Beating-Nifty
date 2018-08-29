@@ -8,7 +8,6 @@
 
 ## Value investing
 
-- [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
 - Books to read :
   - The Warren Buffet Way
   - The Intelligent Investor | Security Analysis - Benjamin Graham
