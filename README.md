@@ -8,7 +8,7 @@
 
 ## Value investing
 
-- Books to read :
+- Books to read
   - The Warren Buffet Way
   - The Intelligent Investor | Security Analysis - Benjamin Graham
   - The Theory of Investment Value - John Burr Williams
@@ -27,7 +27,7 @@
 1. Youtube
     - [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
     - [Principles For Success by Ray Dalio (In 30 Minutes)](https://www.youtube.com/watch?v=B9XGUpQZY38)
-2. Metrics to select mutual funds
+2. Value investmet links
     - [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp) 
 3. Zerodha
     - [Fundamental analysis](https://zerodha.com/varsity/)
