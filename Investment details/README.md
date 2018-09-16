@@ -14,5 +14,5 @@
 3. Graphite India - `09th Jun 2018` - Same as HEG. But able to leverage the Graphite demand better. Entered at 832.47
 4. Sanwaria Consumer - `09th Jun 2018` - Bought 190 shares at a price of ₹13.15. Good financials. Need to define target. Clear resistance level at ₹22 and ₹29
 5. Prakash - `09th Jun 2018` - Slightly late from point of entry perspective, but good potential for grwoth. Need to perform FA and category comparison
-6. JSW Steel : `17th Jun 2018` - Industry shows strong growth but the level of debts show concerns. Plans to reduce the level of debts is something the industry is working on by creating efficient plants, recent aquisitions may put stress on next quarterly results
+6. JSW Steel : `17th Jun 2018` - Industry shows strong growth but the level of debts concerning. Plans to reduce the level of debts is something the industry is working on by creating efficient plants, recent aquisitions may put stress on next quarterly results
 7. Manpasand Beverages : `05th Jul 2018` - Strong balance sheet. Virtually debt free, high unpledged promoter holding. Has partnered with Parle to increase market reach. Has outlook for becoming international brand. Entered at 155.75. Stock exit by end of 2 weeks - issues with management and exit of auditor
