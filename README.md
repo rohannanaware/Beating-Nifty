@@ -21,7 +21,8 @@
   - **Dividend** - Has the industry paid consistent dividents to it's shareholders? Is the divided above the industry average? How has the dividend value increased over time?
   - **Management** - Does the management behave like the founders or owners of the industry - eg. what is the unpledged promoter holding? Is the management transparent about the industry and it's finances? Are there any legal cases against them? Does the management have an outlook to capitalize the institutional changes? Candor
   - Consistently track news - derectly or indirectly related to the industry, movements in the global market, introduction of tariffs, change in goverment, policies of the government etc. Refer websites like SimplyWallStreet and Screener
-
+  - **Graham's philosophy** : The market is filled with extremely capable analysts whose investment actions reflect the earnings and earnings potential of a script on a efficient real time basis, which in turn may reduce the returns of an enterprice investor. The safer choice is to pick scripts which have been neglected due to lack of interest and unjustified popular prejudice while trading lower than their NAV
+  - This brings us to two distinct approaches - High performing giants(ROE, PF, Rev > 25% | Debt ratio < 1.1),  and neglected gems(Price < 0.75 * NAV | ROE, PF, Rev > 15% | Debt ratio < ~1.1). The fundamental analysis part remains same for both but for the 1st price level is not a huge concern until the P/E is within rational limits
 
 ## Reference 
 1. Youtube
