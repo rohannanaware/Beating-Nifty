@@ -1,3 +1,5 @@
+Put on hold as equivalent framework available at [screener.in](https://www.screener.in/)
+
 # Web scraping
 
 - Objective - Build a framework that can help shortlist sripts good for investment in the upcoming quarter. This framework will filter the amount of scripts that will be fed into the algorithmic trading
