@@ -34,3 +34,12 @@ Sales growth 5Years > 20 AND
 Price to book value < 5 AND
 Unpledged promoter holding = Promoter holding
 ```
+
+- [Dividend providers](https://www.screener.in/screens/142817/Dividend-providers/)
+```
+Dividend yield > 4 AND
+Average return on capital employed 5Years > 15 AND
+Profit growth 5Years > 15 AND
+Market Capitalization > 1000 AND
+Debt to equity < 1.2
+```
