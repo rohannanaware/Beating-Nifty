@@ -3,7 +3,7 @@
 
 - [Value investing](#value-investing)
 - [Reference](#reference)
-- [Screens](https://github.com/rohan193/Beating-Nifty/tree/master/Screens)
+- [Screens](https://github.com/rohan193/Beating-Nifty/tree/master/01%20Screens)
 - [Investment details](https://github.com/rohan193/Beating-Nifty/tree/master/Investment%20details)
 
 ## Value investing
