@@ -22,7 +22,7 @@
 (Profit growth 5Years >= 15)
 ```
 
-- [Bulls at discount - WIP](https://www.screener.in/screens/141809/Bulls-at-discount/)
+- [Bulls at discount](https://www.screener.in/screens/141809/Bulls-at-discount/)
 ```
 (Market Capitalization > 3000) AND
 (Average return on equity 5Years > 20) AND
